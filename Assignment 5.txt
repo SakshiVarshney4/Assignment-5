@@ -304,7 +304,9 @@ namespace Assignment5
             }
         }
     }
-} Problem 9:
+} 
+Problem 9:
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -396,4 +398,3 @@ namespace Assignment5
 
 }
 
-Problem 10 :
